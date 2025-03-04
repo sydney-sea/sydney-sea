@@ -1,11 +1,10 @@
 # Hi, I'm Sydney (she/her) 👋
 ## I am a junior technical writer 👩🏾‍💻
 
-### Technical Writing Course
-I recently took a 10-week technical writing course where I completed several assignments. Below are some examples:
-- example
+### Projects
+- Here is a [portfolio](https://github.com/sydney-sea/Sydney-TechWritingPortfolio) showcasing assignments I completed during a 10-week technical writing course taught by [Quetzalli Writes](https://www.quetzalliwrites.com/) at Seattle's [Hugo House](https://hugohouse.org/) literary arts center. 
 
-📫 You can reach me on [Linkedin](https://www.linkedin.com/in/sydneycarson/)
+### 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/sydneycarson/)
 
 <!--
 **sydney-sea/sydney-sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
